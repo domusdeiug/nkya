@@ -587,12 +587,12 @@
     <string name="translate">Translate</string>
     <string name="donate">Donate</string>
 
-    <string name="product">Product</string>
+    <string name="product">Original Lawnchair team</string>
     <string name="design_and_development">Design and development</string>
     <string name="development">Development</string>
     <string name="quickswitch_maintenance">QuickSwitch maintenance</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Support and PR</string>
+    <string name="support_and_pr">Original Lawnchair support</string>
 
     <string name="community">Community</string>
     <string name="x_twitter" translatable="false">X</string>
@@ -882,7 +882,7 @@
     <string name="search_provider_vivaldi" translatable="false">Vivaldi</string>
     <string name="search_provider_custom">Custom</string>
 
-    <string name="search_provider_sponsored_description">%1$s and Nkya have a revenue share agreement.\n\nSearching with %1$s helps support Nkya.</string>
+    <string name="search_provider_sponsored_description">%1$s is a sponsored search provider.</string>
 
     <string name="app_label">App</string>
     <string name="website_label">Website</string>

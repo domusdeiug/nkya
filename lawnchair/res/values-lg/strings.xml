@@ -333,11 +333,9 @@
     <string name="support">Obuwagizi</string>
     <string name="translate">Vvuunula</string>
     <string name="donate">Waayo</string>
-    <string name="product">Ebyamaguzi</string>
     <string name="development">Enkulaakulana</string>
     <string name="quickswitch_maintenance">Okuddaabiriza QuickSwitch</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Obuwagizi n\'enkolagana n\'abantu</string>
     <string name="community">Ekitundu</string>
     <string name="telegram">Terefayina</string>
     <string name="news">Amawulire</string>
@@ -511,7 +509,6 @@
     <string name="page_indicator_height">Obuwanvu bw\'akabonero k\'omuko</string>
     <string name="search_provider_app_search">Okunoonya mu pulogulamu</string>
     <string name="search_provider_custom">Enkola</string>
-    <string name="search_provider_sponsored_description">%1$s ne Nkya balina endagaano y\'okugabana omusolo.\n\nOkunoonya ne %1$s kiyamba okuwagira Nkya.</string>
     <string name="app_label">App</string>
     <string name="website_label">Omukutu</string>
     <string name="qsb_search_provider_app_required">App yeetaagibwa</string>

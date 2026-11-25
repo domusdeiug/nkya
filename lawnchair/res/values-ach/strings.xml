@@ -333,11 +333,9 @@
     <string name="support">Cwak</string>
     <string name="translate">Gony</string>
     <string name="donate">Mi kony</string>
-    <string name="product">Jami</string>
     <string name="development">Dongo lobo</string>
     <string name="quickswitch_maintenance">Yubu ki roco QuickSwitch</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Kony ki lok me kubbe ki lwak</string>
     <string name="community">Lwak</string>
     <string name="telegram">Waraga me cim</string>
     <string name="news">Lok angea</string>
@@ -511,7 +509,6 @@
     <string name="page_indicator_height">Dit pa lanyut me pot buk</string>
     <string name="search_provider_app_search">Yeny me purugram</string>
     <string name="search_provider_custom">Kit ma kiyubu kwede</string>
-    <string name="search_provider_sponsored_description">%1$s ki Nkya tye ki winye me poko cene.\n\nYenyo ki %1$s konyo cwako Nkya.</string>
     <string name="app_label">App</string>
     <string name="website_label">Kakube</string>
     <string name="qsb_search_provider_app_required">App mite</string>

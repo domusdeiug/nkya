@@ -333,11 +333,9 @@
     <string name="support">Agangat</string>
     <string name="translate">Ijulakin</string>
     <string name="donate">Ijaik agangat</string>
-    <string name="product">Ibore</string>
     <string name="development">Apol</string>
     <string name="quickswitch_maintenance">Aitemonokin eswitch lo atipet</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Agangat keda Atukot Naka Itunga</string>
     <string name="community">Atutubet</string>
     <string name="telegram">Ainapeta nuka elago</string>
     <string name="news">Akiro nu iyemuto</string>
@@ -511,7 +509,6 @@
     <string name="page_indicator_height">Apol naka aanyunet naka epone</string>
     <string name="search_provider_app_search">Aimo Ainapeta</string>
     <string name="search_provider_custom">Ainapeta nuka itunga</string>
-    <string name="search_provider_sponsored_description">%1$s keda Nkya ejaas keda acamanar naka aimor ikapun.\n\nAsesen keda %1$s ingarakini aigang Nkya.</string>
     <string name="app_label">Appo</string>
     <string name="website_label">Adoketait na elago</string>
     <string name="qsb_search_provider_app_required">Ekotoi app</string>

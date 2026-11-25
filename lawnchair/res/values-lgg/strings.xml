@@ -333,11 +333,9 @@
     <string name="support">Atita</string>
     <string name="translate">Mi ma oja</string>
     <string name="donate">Le mi ma fe atita ra</string>
-    <string name="product">Afa edele \'diyi</string>
     <string name="development">E\'yo angu ezoma niri</string>
     <string name="quickswitch_maintenance">Afa omvele QuickSwitch ruri ma tambaza</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Atita azini e\'yo o\'bi yi ma eselea \'diyi</string>
     <string name="community">Ongulumu eyi</string>
     <string name="telegram">Afa omvele telegram</string>
     <string name="news">E\'yo efu\'ba \'diyi</string>
@@ -511,7 +509,6 @@
     <string name="page_indicator_height">Kokobi e\'dapi \'diyi ma zota</string>
     <string name="search_provider_app_search">Afa app ru \'diyi ma onda</string>
     <string name="search_provider_custom">Afa edele drisi \'diyi</string>
-    <string name="search_provider_sponsored_description">%1$s azini Nkya yi ma otita afa isuza awazuri ci.\n\nEꞌyo ndazu %1$s be ꞌdiyi azakoma fe atita fezu Nkya dri.</string>
     <string name="app_label">App</string>
     <string name="website_label">Angu e\'dazuri</string>
     <string name="qsb_search_provider_app_required">Afa omvele app ruri le</string>

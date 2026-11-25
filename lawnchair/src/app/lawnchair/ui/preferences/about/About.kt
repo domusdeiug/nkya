@@ -151,7 +151,7 @@ fun About(
                             onClick = {},
                             onLongClick = {
                                 val commitUrl =
-                                    "https://github.com/LawnchairLauncher/lawnchair/commit/${BuildConfig.COMMIT_HASH}"
+                                    "https://github.com/domusdeiug/nkya/commit/${BuildConfig.COMMIT_HASH}"
                                 context.startActivity(Intent(Intent.ACTION_VIEW, commitUrl.toUri()))
                             },
                         ),
@@ -220,17 +220,19 @@ fun About(
                 member = it,
             )
         }
-        preferenceGroupItems(
-            items = uiState.bottomLinks,
-            isFirstChild = false,
-            heading = { stringResource(id = R.string.community) },
-            key = { _, it -> it.labelResId },
-        ) { _, it ->
-            HorizontalLawnchairLink(
-                iconResId = it.iconResId,
-                label = stringResource(id = it.labelResId),
-                url = it.url,
-            )
+        if (uiState.bottomLinks.isNotEmpty()) {
+            preferenceGroupItems(
+                items = uiState.bottomLinks,
+                isFirstChild = false,
+                heading = { stringResource(id = R.string.community) },
+                key = { _, it -> it.labelResId },
+            ) { _, it ->
+                HorizontalLawnchairLink(
+                    iconResId = it.iconResId,
+                    label = stringResource(id = it.labelResId),
+                    url = it.url,
+                )
+            }
         }
         item {
             PreferenceGroupHeading(
@@ -271,4 +273,4 @@ fun About(
     }
 }
 
-private const val PRIVACY_POLICY = "https://lawnchair.app/privacy_policy"
+private const val PRIVACY_POLICY = "https://github.com/domusdeiug/nkya/blob/main/PRIVACY.md"

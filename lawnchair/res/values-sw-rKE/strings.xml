@@ -468,12 +468,10 @@
     <string name="support">Msaada</string>
     <string name="translate">Tafsiri</string>
     <string name="donate">Donate</string>
-    <string name="product">Bidhaa</string>
     <string name="design_and_development">Design and development</string>
     <string name="development">Kujenga</string>
     <string name="quickswitch_maintenance">QuickSwitch maintenance</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Support and PR</string>
     <string name="community">Community</string>
     <string name="telegram">Telegram</string>
     <string name="news">Habari</string>
@@ -687,7 +685,6 @@
     <!-- Search providers -->
     <string name="search_provider_app_search">App search</string>
     <string name="search_provider_custom">Ubinafsishaji</string>
-    <string name="search_provider_sponsored_description">%1$s and Nkya have a revenue share agreement.\n\nSearching with %1$s helps support Nkya.</string>
     <string name="app_label">Programu</string>
     <string name="website_label">Tovuti</string>
     <string name="qsb_search_provider_app_required">App required</string>

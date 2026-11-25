@@ -321,12 +321,10 @@
     <!-- about/About.kt -->
     <string name="news">Habari</string>
     <string name="support">Msaada</string>
-    <string name="product">Bidhaa</string>
     <string name="design_and_development">Kubuni &amp; Kujenga</string>
     <string name="development">Kujenga</string>
     <string name="quickswitch_maintenance">Matengenezo ya QuickSwitch</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Support &amp; PR</string>
     <!--
       <string name="support" />
       <string name="support_and_pr" />

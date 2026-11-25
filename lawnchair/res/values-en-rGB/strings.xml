@@ -377,12 +377,10 @@
     <string name="news">News</string>
     <string name="support">Support</string>
 
-    <string name="product">Product</string>
     <string name="design_and_development">Design &amp; development</string>
     <string name="development">Development</string>
     <string name="quickswitch_maintenance">QuickSwitch maintenance</string>
     <string name="devops">DevOps</string>
-    <string name="support_and_pr">Support &amp; PR</string>
 
     <string name="acknowledgements">Acknowledgements</string>
     <string name="translate">Translate</string>
@@ -536,7 +534,6 @@
     <!-- Search providers -->
     <string name="search_provider_app_search">App search</string>
 
-    <string name="search_provider_sponsored_description">%1$s and Nkya have a revenue share agreement.\n\nSearching with %1$s helps support Nkya.</string>
 
     <string name="app_label">App</string>
     <string name="website_label">Website</string>

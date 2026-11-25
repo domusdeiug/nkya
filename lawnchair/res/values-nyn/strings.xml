@@ -333,11 +333,9 @@
     <string name="support">Obuhwezi</string>
     <string name="translate">Vunuura</string>
     <string name="donate">Ha obuhwezi</string>
-    <string name="product">Ekintu</string>
     <string name="development">Entunguuka</string>
     <string name="quickswitch_maintenance">Okugarura busya QuickSwitch</string>
     <string name="devops">Enkora ya DevOps</string>
-    <string name="support_and_pr">Obuhwezi hamwe n\'empurizagana y\'abantu</string>
     <string name="community">Ekyanga</string>
     <string name="telegram">Tereguramu</string>
     <string name="news">Amakuru</string>
@@ -511,7 +509,6 @@
     <string name="page_indicator_height">Oburaingwa bw\'akamanyiso k\'omuko</string>
     <string name="search_provider_app_search">Okucondooza omu puroguraamu</string>
     <string name="search_provider_custom">Omusinguzi</string>
-    <string name="search_provider_sponsored_description">%1$s na Nkya biine endagaano y\'okugabana emishoro.\n\nOkuronda na %1$s nikihwera omu kushagika Nkya.</string>
     <string name="app_label">App</string>
     <string name="website_label">Omukutu</string>
     <string name="qsb_search_provider_app_required">App neeyetengwa</string>
