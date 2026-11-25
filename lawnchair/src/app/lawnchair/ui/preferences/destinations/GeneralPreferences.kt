@@ -33,6 +33,7 @@ import app.lawnchair.theme.color.ColorStyle
 import app.lawnchair.ui.preferences.LocalIsExpandedScreen
 import app.lawnchair.ui.preferences.LocalPreferenceInteractor
 import app.lawnchair.ui.preferences.components.FontPreference
+import app.lawnchair.ui.preferences.components.LanguagePreference
 import app.lawnchair.ui.preferences.components.NavigationActionPreference
 import app.lawnchair.ui.preferences.components.NotificationDotsPreference
 import app.lawnchair.ui.preferences.components.ThemePreference
@@ -92,6 +93,7 @@ fun GeneralPreferences(modifier: Modifier = Modifier) {
                 label = stringResource(id = R.string.home_screen_rotation_label),
                 description = stringResource(id = R.string.home_screen_rotation_description),
             )
+            LanguagePreference()
         }
         PreferenceGroup(heading = stringResource(id = R.string.updater)) {
             if (BuildConfig.APPLICATION_ID.contains("nightly")) {

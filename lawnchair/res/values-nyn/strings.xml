@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_art_and_design">Eby\'emikono hamwe n\'okukora eby\'emikono</string>
-    <string name="category_auto_and_vehicles">Emotoka n\'ebiiruka</string>
-    <string name="category_beauty">Oburungi</string>
-    <string name="category_books_and_reference">Ebitabo hamwe n\'ebihandiiko ebirikugambwaho</string>
-    <string name="category_business">Bizinesi</string>
-    <string name="category_comics">Ebishushani bya katuni</string>
-    <string name="category_communication">Okuhurizagana</string>
-    <string name="category_dating">Okukundana</string>
-    <string name="category_education">Obwegyese</string>
-    <string name="category_entertainment">Eby\'amashemererwa</string>
-    <string name="category_events">Ebyabaireho</string>
-    <string name="category_finance">Eby\'esente</string>
-    <string name="category_food_and_drink">Ebyokurya n\'ebyokunywa</string>
-    <string name="category_game">Omuzaano</string>
-    <string name="category_health_and_fitness">Amagara n\'okugira amagara marungi</string>
-    <string name="category_house_and_home">Enju hamwe n\'amaka</string>
-    <string name="category_libraries_and_demo">Amaterekyerero n\'eby\'okureeberaho</string>
-    <string name="category_lifestyle">Emituurire y\'abantu</string>
-    <string name="category_maps_and_navigation">Maapu hamwe n\'okushwijuma</string>
-    <string name="category_medical">Eby\'amagara</string>
-    <string name="category_music">Ebyeshongoro</string>
-    <string name="category_news">Amakuru</string>
-    <string name="category_parenting">Okukuza abaana</string>
-    <string name="category_personalization">Okukoresa omuntu weena</string>
-    <string name="category_photography">Okukwata ebishushani</string>
-    <string name="category_productivity">Okukora emirimo</string>
-    <string name="category_shopping">Okugura ebintu</string>
-    <string name="category_social">Eby\'obuhangwa</string>
-    <string name="category_sports">Eby\'emizaano</string>
-    <string name="category_tools">Ebikwato</string>
-    <string name="category_video">Akatambi</string>
-    <string name="category_weather">Embeera y\'obwire</string>
     <string name="preview_label">Okureeba omumaisho</string>
     <string name="action_create">Kureetaho</string>
     <string name="action_restore">Garuraho</string>

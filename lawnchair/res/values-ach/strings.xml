@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_art_and_design">Cal ki Diro me yubu jami</string>
-    <string name="category_auto_and_vehicles">Mutoka Ki Mutoka</string>
-    <string name="category_beauty">Ber pa dano</string>
-    <string name="category_books_and_reference">Bukke kacel ki bukke mukene ma dano twero tic kwedgi</string>
-    <string name="category_business">Biacara</string>
-    <string name="category_comics">Comics</string>
-    <string name="category_communication">Lok</string>
-    <string name="category_dating">Lunyom ma gitye ka winye</string>
-    <string name="category_education">Kwan</string>
-    <string name="category_entertainment">Galo wang</string>
-    <string name="category_events">Jami matye katime</string>
-    <string name="category_finance">Lim</string>
-    <string name="category_food_and_drink">Cam ki mato kongo</string>
-    <string name="category_game">Tuku</string>
-    <string name="category_health_and_fitness">Yotkom ki bedo ma komwa yot</string>
-    <string name="category_house_and_home">Ot ki Gangi</string>
-    <string name="category_libraries_and_demo">Ot me gwoko bukke ki demo</string>
-    <string name="category_lifestyle">Kit me kwo</string>
-    <string name="category_maps_and_navigation">Map Ki Yub me ngwec</string>
-    <string name="category_medical">Yotkom</string>
-    <string name="category_music">Wer</string>
-    <string name="category_news">Lok angea</string>
-    <string name="category_parenting">Pwonyo lutino</string>
-    <string name="category_personalization">Yubu jami ma mite piri keni</string>
-    <string name="category_photography">Goyo cal</string>
-    <string name="category_productivity">Rwom me tic</string>
-    <string name="category_shopping">Wilo jami</string>
-    <string name="category_social">Lwak</string>
-    <string name="category_sports">Tuku</string>
-    <string name="category_tools">Jami tic</string>
-    <string name="category_video">Cal me vidio</string>
-    <string name="category_weather">Kit ma piny tye kwede</string>
     <string name="preview_label">Nen kong</string>
     <string name="action_create">Yub</string>
     <string name="action_restore">Dwok cen</string>

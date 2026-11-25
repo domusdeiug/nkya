@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_art_and_design">Afa edele drisi \'diyi azini afa edele edezaru \'diyi</string>
-    <string name="category_auto_and_vehicles">Mutukari eyi tualu mutukari eyi pie</string>
-    <string name="category_beauty">Onyiru</string>
-    <string name="category_books_and_reference">Buku azini e\'yo \'bani \'ba eyi ma dria \'diyi</string>
-    <string name="category_business">Tujara</string>
-    <string name="category_comics">E\'yo avita ni \'diyi</string>
-    <string name="category_communication">E\'yo nzeza</string>
-    <string name="category_dating">E\'yo ti ecita ni \'diyi</string>
-    <string name="category_education">Onita</string>
-    <string name="category_entertainment">E\'yo ayiko fezani \'diyi</string>
-    <string name="category_events">E\'yo yi \'yepi \'diyi</string>
-    <string name="category_finance">E\'yo robia ni \'diyi</string>
-    <string name="category_food_and_drink">Nyaka azini afa mvuza</string>
-    <string name="category_game">Avita</string>
-    <string name="category_health_and_fitness">Rua alata azini rua ala ni</string>
-    <string name="category_house_and_home">Jo azini Aku</string>
-    <string name="category_libraries_and_demo">Pari buku ta mbazu \'diyi azini demo yi</string>
-    <string name="category_lifestyle">E\'yo idri nyazani \'diyi</string>
-    <string name="category_maps_and_navigation">Mapu eyi tualu geri \'bani acizu \'diyi pie</string>
-    <string name="category_medical">Arojo eyi ma alea</string>
-    <string name="category_music">Ongo</string>
-    <string name="category_news">E\'yo efu\'ba \'diyi</string>
-    <string name="category_parenting">E\'yo anzi eyi ezozu ri ma dria</string>
-    <string name="category_personalization">ꞋBani ꞌba yi ma ngulupi si ꞌdiyi</string>
-    <string name="category_photography">E\'da gbaza</string>
-    <string name="category_productivity">Afa edeza ma omgbo</string>
-    <string name="category_shopping">Afa jeza</string>
-    <string name="category_social">Ongulumu eyi ma eselea</string>
-    <string name="category_sports">Avita eyi</string>
-    <string name="category_tools">Afa ayuzaru \'diyi</string>
-    <string name="category_video">O\'dukoti edrizu</string>
-    <string name="category_weather">E\'yo angu mile ni \'diyi</string>
     <string name="preview_label">Eꞌyo ꞌbani ndre ꞌdiyi ma ale andrizu</string>
     <string name="action_create">Le mi ma ede ra</string>
     <string name="action_restore">E\'do dika</string>
@@ -328,7 +296,6 @@
     <string name="smartspace_battery_slow_charging">Aci ombezu e\'yere</string>
     <string name="smartspace_battery_charging">Aje o\'bazu</string>
     <string name="smartspace_battery_low">Batri ma ongmbo ele</string>
-    <string name="battery_charging_percentage_charging_time">%1$d%%2$s  E\'yo dria %2$s ma alia</string>
     <string name="smartspace_widget">E\'yo ndreza ma alia</string>
     <string name="smartspace_widget_description">Afa \'bani e\'dazu \'diyi</string>
     <string name="smartspace_calendar">Kalenda</string>

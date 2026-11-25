@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_art_and_design">Aputosia Ka Aitemonokin</string>
-    <string name="category_auto_and_vehicles">Amotokan keda amotokan</string>
-    <string name="category_beauty">Aibuses</string>
-    <string name="category_books_and_reference">Iitabon keda Aingito</string>
-    <string name="category_business">Agwelanar</string>
-    <string name="category_comics">Akiro nuka aitelelio</string>
-    <string name="category_communication">Einer</string>
-    <string name="category_dating">Airiamun</string>
-    <string name="category_education">Asioman</string>
-    <string name="category_entertainment">Aitelelio</string>
-    <string name="category_events">Akiro nuiswamasi</string>
-    <string name="category_finance">Ikapun</string>
-    <string name="category_food_and_drink">Inyamat Ka Imaten</string>
-    <string name="category_game">Abolia</string>
-    <string name="category_health_and_fitness">Angaleu Ka Aibosit Naejok</string>
-    <string name="category_house_and_home">Etogo Keda Orekec</string>
-    <string name="category_libraries_and_demo">Aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu aiboisio nu</string>
-    <string name="category_lifestyle">Aijar</string>
-    <string name="category_maps_and_navigation">Amaps Ka Aitemonokin</string>
-    <string name="category_medical">Amukian</string>
-    <string name="category_music">Ikososinei</string>
-    <string name="category_news">Akiro nu iyemuto</string>
-    <string name="category_parenting">Aurianakin</string>
-    <string name="category_personalization">Aitodolikin</string>
-    <string name="category_photography">Aputosia</string>
-    <string name="category_productivity">Aitolomio na iboro</string>
-    <string name="category_shopping">Agwel iboro</string>
-    <string name="category_social">Akiro nuka itunga</string>
-    <string name="category_sports">Aboliasio</string>
-    <string name="category_tools">Iboro lu iswamaere</string>
-    <string name="category_video">Ebidio</string>
-    <string name="category_weather">Ejautene lo akwap</string>
     <string name="preview_label">Airereonor</string>
     <string name="action_create">Ibusakinit jo aiswamaun</string>
     <string name="action_restore">Inyakakin</string>

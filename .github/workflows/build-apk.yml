@@ -1,0 +1,38 @@
+name: Build Nkya APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: build-apk-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: zulu
+          java-version: 21
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      # No keystore.properties exists, so build.gradle signs with the debug key.
+      # The resulting APK installs directly on any device (enable "install unknown apps").
+      - name: Build APK
+        run: ./gradlew assembleLawnWithQuickstepGithubRelease --stacktrace
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Nkya-APK
+          path: build/outputs/apk/**/*.apk
+          if-no-files-found: error

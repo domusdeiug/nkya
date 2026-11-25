@@ -1,37 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="category_art_and_design">Eby\'emikono ne dizayini</string>
-    <string name="category_auto_and_vehicles">Emmotoka n\'ebidduka</string>
-    <string name="category_beauty">Obulungi</string>
-    <string name="category_books_and_reference">Ebitabo n\'ebiwandiiko</string>
-    <string name="category_business">Bizinensi</string>
-    <string name="category_comics">Comics</string>
-    <string name="category_communication">Empuliziganya</string>
-    <string name="category_dating">Okukwana</string>
-    <string name="category_education">Ebyenjigiriza</string>
-    <string name="category_entertainment">Eby\'amasanyu</string>
-    <string name="category_events">Ebibaddewo</string>
-    <string name="category_finance">Ebyensimbi</string>
-    <string name="category_food_and_drink">Emmere n\'ebyokunywa</string>
-    <string name="category_game">Omuzannyo</string>
-    <string name="category_health_and_fitness">Obulamu n\'obutebenkevu</string>
-    <string name="category_house_and_home">Ennyumba n\'amaka</string>
-    <string name="category_libraries_and_demo">Amaterekero g\'ebitabo ne Demo</string>
-    <string name="category_lifestyle">Embeera y\'obulamu</string>
-    <string name="category_maps_and_navigation">Maapu n\'okulambula</string>
-    <string name="category_medical">Eby\'obujjanjabi</string>
-    <string name="category_music">Ennyimba</string>
-    <string name="category_news">Amawulire</string>
-    <string name="category_parenting">Okuzaala</string>
-    <string name="category_personalization">Okukyusakyusa</string>
-    <string name="category_photography">Okukuba ebifaananyi</string>
-    <string name="category_productivity">Okukola obulungi emirimu</string>
-    <string name="category_shopping">Okugula ebintu</string>
-    <string name="category_social">Eby\'embeera z\'abantu</string>
-    <string name="category_sports">Ebyemizannyo</string>
-    <string name="category_tools">Ebikozesebwa</string>
-    <string name="category_video">Akatambi</string>
-    <string name="category_weather">Embeera y\'obudde</string>
     <string name="preview_label">Okwolesebwa</string>
     <string name="action_create">Tonda</string>
     <string name="action_restore">Ddamu</string>
